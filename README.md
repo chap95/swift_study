@@ -2,7 +2,7 @@ swift 스터디
 =========
 #### 7월달
 ##### SOPT appjam 이후의 공부
-[ 참고한 강의 ] ( https://www.youtube.com/watch?v=2n-fSlW-jts&list=PLz8NH7YHUj_ZmlgcSETF51Z9GSSU6Uioy&index=1 )
+[ 참고한 강의 ]( https://www.youtube.com/watch?v=2n-fSlW-jts&list=PLz8NH7YHUj_ZmlgcSETF51Z9GSSU6Uioy&index=1 )
 <hr/>
 
 1.  클로저
